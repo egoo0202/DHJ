@@ -107,7 +107,8 @@
 
 預留：  8 個 LC（16 芯接點）分散在中間緩衝區（或是後面也行）
 
-依據FLN通訊圖，A端會跳線連接到SWH02，B端會跳線連接到SWH01
-![image](https://github.com/egoo0202/DHJ/blob/main/%E5%AE%89%E5%8D%97FLN%E6%A9%9F%E6%AB%83%E5%85%89%E7%BA%96.jpg](https://github.com/egoo0202/DHJ/blob/main/%E6%A9%9F%E6%AB%83Switch%E9%80%9A%E8%A8%8A%E9%80%A3%E6%8E%A5%E5%9C%96.png))
+依據FLN通訊圖，A端會跳線連接到Switch02，B端會跳線連接到Switch01
+
+![image](https://github.com/egoo0202/DHJ/blob/main/%E6%A9%9F%E6%AB%83Switch%E9%80%9A%E8%A8%8A%E9%80%A3%E6%8E%A5%E5%9C%96.png))
 
 ────────────────────────────────────────────
