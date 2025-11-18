@@ -109,6 +109,6 @@
 
 依據FLN通訊圖，A端進LC後，會利用跳線連接到Switch02，B端則是連接到Switch01
 
-![image](https://github.com/egoo0202/DHJ/blob/main/%E6%A9%9F%E6%AB%83Switch%E9%80%9A%E8%A8%8A%E9%80%A3%E6%8E%A5%E5%9C%96.png))
+![image](https://github.com/egoo0202/DHJ/blob/main/%E6%A9%9F%E6%AB%83Switch%E9%80%9A%E8%A8%8A%E9%80%A3%E6%8E%A5%E5%9C%96.png)
 
 ────────────────────────────────────────────
