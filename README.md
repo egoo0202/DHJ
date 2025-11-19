@@ -8,7 +8,7 @@
 # 安南FLN機櫃光纖盒實例 
 # 一個光纖盒有12排，每排上下兩組LC Duplex
 # 左6排保留給A端 (連接Switch02)，右6排保留給B端 (連接Switch01)
-![image](https://github.com/egoo0202/DHJ/blob/main/%E5%AE%89%E5%8D%97FLN%E6%A9%9F%E6%AB%83%E5%85%89%E7%BA%96.jpg)
+![image](https://github.com/egoo0202/DHJ/blob/main/%E5%9C%96%E7%89%87/%E5%AE%89%E5%8D%97%E6%A9%9F%E6%AB%83%E5%AF%A6%E4%BE%8B.jpg)
 
 ────────────────────────────────────────────
 
